@@ -1,16 +1,78 @@
-# React + Vite
+# Webcreators
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive web development platform built using React and Vite.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Webcreators aims to help small businesses and individuals establish a professional online presence through affordable and effective website development solutions.
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive user interface
+- Modern website design
+- Reusable React components
+- Contact section
+- Features section
+- Easy navigation
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vdmishra748-maker/Webcreators.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Webcreators
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Project Structure
+
+```text
+src/
+  assets/
+  components/
+    Contact.jsx
+    Features.jsx
+    Hero.jsx
+    HowItWorks.jsx
+    Navbar.jsx
+  App.jsx
+  App.css
+  index.css
+  main.jsx
+public/
+package.json
+index.html
+```
+
+## Author
+
+Vaibhav Deep Mishra
+
+## License
+
+This project is for educational and development purposes.
